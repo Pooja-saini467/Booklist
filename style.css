@@ -1,0 +1,17 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+    
+body {
+    background:rgb(206, 182, 182);
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+  }
+.btn {
+    width:100%;
+    margin-top: 50px;
+  }
+
+  
