@@ -12,11 +12,12 @@
 - [Author](#author)
 
 ## Overview 
+- In this Project We are easily add to book and make a book list and delete a book from book list
 - it's complete responsive 
-- In this project we are easily add to cart a product and remove to cart a product and see a all images through the image slider
+
 
 ## screenshot
-<img src="https://github.com/Pooja-saini467/ecommerce-page/blob/main/design/desktop-design.jpg?raw=true">
+<img src="https://github.com/Pooja-saini467/Booklist/blob/main/Screenshot.png?raw=true">
 
 ## Demo
 
