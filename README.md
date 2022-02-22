@@ -21,39 +21,15 @@
 
 ## Demo
 
- https://user-images.githubusercontent.com/90523453/155202830-c24a817a-af53-421d-95e0-b461b431b176.mp4
 
-
-## Live Link
-- Live Url
-- Pooja-saini467(## Welcome! 👋
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
-## Overview 
-- it's complete responsive 
-- In this project we are easily add to cart a product and remove to cart a product and see a all images through the image slider
-
-## screenshot
-<img src="https://github.com/Pooja-saini467/ecommerce-page/blob/main/design/desktop-design.jpg?raw=true">
-
-## Demo
-
- 
 
 
 ## Live Link
-- Pooja-saini467()
 
+- Pooja-saini467(https://pooja-saini467.github.io/Booklist/)
 
 ## My Process
+
 ## Build With
 - html5
 - css3
